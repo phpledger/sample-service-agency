@@ -1,7 +1,7 @@
 {
   "type": "sample",
   "slug": "sample-service-agency",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "contract": 1,
   "name": "Cedar Studio",
   "description": "Professional services / agency. This sample demonstrates bookkeeping examples only; it is not an implementation of the named industry's operational, regulatory or compliance systems.",
@@ -13,11 +13,11 @@
   },
   "sample": {
     "id": "service-agency",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "name": "Cedar Studio",
     "business": "Professional services / agency",
-    "source_count": 87,
-    "journal_count": 85,
+    "source_count": 111,
+    "journal_count": 109,
     "draft_count": 3,
     "status": "released_demo_only",
     "capability_note": "This sample demonstrates bookkeeping examples only; it is not an implementation of the named industry's operational, regulatory or compliance systems.",
@@ -37,11 +37,11 @@
         "The open 2026 drafts are separate practice records and do not alter closed history."
       ]
     },
-    "file": "service-agency-1.0.0.json",
-    "sha256": "9ddeb21d5b2e4c7d1b63e6e2c44d87a86173baabed6951bc4f4c6baab2e30269"
+    "file": "service-agency-1.1.0.json",
+    "sha256": "ac6bdf94ab46884fda066c2cc8a055c3d46cfe02dbb4c3730b9d0ed7231cec33"
   },
   "files": {
-    "pack.json": "9ddeb21d5b2e4c7d1b63e6e2c44d87a86173baabed6951bc4f4c6baab2e30269",
-    "structure.json": "cbe80799638056001c59e1101ac8a5bc1c20928525bbb206afb1a2e1a54d05a0"
+    "pack.json": "ac6bdf94ab46884fda066c2cc8a055c3d46cfe02dbb4c3730b9d0ed7231cec33",
+    "structure.json": "b67662ab74b2d0b23e20a39584e9ca5fc1eb26e49afaed0cecf976d1b94d644c"
   }
 }
